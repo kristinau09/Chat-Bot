@@ -1,6 +1,10 @@
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+/*
+ @author Kristina
+*/ 
+
 public class Sys {
 
 	private int type;
