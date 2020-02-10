@@ -1,6 +1,10 @@
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+/*
+ @author Kristina
+*/ 
+
 public class Wind {
 	
 	private double speed;
