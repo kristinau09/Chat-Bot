@@ -1,3 +1,6 @@
+/*
+ @author Kristina
+*/ 
 
 public class Weather {
 
